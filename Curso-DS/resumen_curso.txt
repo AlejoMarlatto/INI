@@ -1,0 +1,62 @@
+# RESUMEN DEL CURSO DE DATA SCIENCE
+
+## ESTADÍSTICAS:
+- DOCX: 2 archivos
+- IPYNB: 34 archivos
+- PDF: 1 archivos
+- PPTX: 12 archivos
+- SQLITE: 1 archivos
+
+Total de archivos procesados: 50
+
+## LISTA DE ARCHIVOS:
+- Clase 0 - Recursos\Clase 1  - Ejemplo Proyecto DSII\Proyecto Enfermedad Cardiaca.ipynb
+- Clase 0 - Recursos\Clase 1  - Ejemplo Proyecto DSII\Proyecto Enfermedad Cardiaca.pdf
+- Clase 0 - Recursos\Clase 2 -  Set de Datos.docx
+- Clase 10 - ML y Mejora de Modelos\Clase 10 -  Algoritmo de Clasificación - Ejemplo IRIS.ipynb
+- Clase 10 - ML y Mejora de Modelos\Clase 10 - Algoritmos  Regresión.ipynb
+- Clase 10 - ML y Mejora de Modelos\Clase 10 - Mejora de Modelo.ipynb
+- Clase 10 - ML y Mejora de Modelos\Clase 10 - Modelos de Machine Learning.ipynb
+- Clase 10 - ML y Mejora de Modelos\_Clase 10 - Algoritmos Supervisados.pptx
+- Clase 11 - Clasificación y Regresión\Clase 11 - Metricas de Clasificación y Regresión.pptx
+- Clase 11 - Clasificación y Regresión\Clase 11 - ROI (Return on Investment) en Proyectos de Machine Learning.docx
+- Clase 11 - Clasificación y Regresión\_Clase 11 - Algoritmos Supervisados.pptx
+- Clase 12 - Reducción y Agrupación\Clase 12 - K-Means .ipynb
+- Clase 12 - Reducción y Agrupación\Clase 12 - PCA.ipynb
+- Clase 13 - Evaluación de Clasificación\Clase 13 - Metricas.ipynb
+- Clase 14 - Validación y Problemas en ML\Clase 14 - Detectar Overfitting.ipynb
+- Clase 14 - Validación y Problemas en ML\Clase 14 - Optimizar Modelos.ipynb
+- Clase 15 - Modelos de Ensamble y Mejora\Clase 15 - Aplicando Boosting.ipynb
+- Clase 15 - Modelos de Ensamble y Mejora\Clase 15 - Modelos de Ensamble.ipynb
+- Clase 16 - Datathon en Data Science\Clase 16 - Datathon - Modelado y Analisis.ipynb
+- Clase 2 - Adquisición de Datos\Clase 2 - Adquisión de datos CODER.ipynb
+- Clase 2 - Adquisición de Datos\Clase 2 - Data Acquisition Prof. Ger Ejemplo.ipynb
+- Clase 2 - Adquisición de Datos\Clase 2 - Machine Learning.ipynb
+- Clase 2 - Adquisición de Datos\_Clase 2 - Data Acquisition Prof. Ger.pptx
+- Clase 3 - SQL\Clase 3 - Redes.sqlite
+- Clase 3 - SQL\Clase 3 - SQL Coder .ipynb
+- Clase 3 - SQL\Clase 3 - SQL DML - DCL Ger.ipynb
+- Clase 3 - SQL\_Clase 3 - SQL Profe Ger.pptx
+- Clase 4 - APIS\Clase 4 - Apis CODER.ipynb
+- Clase 4 - APIS\Clase 4 - Data Acquisition - Repaso.ipynb
+- Clase 4 - APIS\Clase 4 - Scraping Web .ipynb
+- Clase 4 - APIS\_Clase 4 - APIs Web_.pptx
+- Clase 5 - Data Wranging - Manipulación de datos\Clase 4 - API Service Practica.ipynb
+- Clase 5 - Data Wranging - Manipulación de datos\Clase 4 - API WEB Practica.ipynb
+- Clase 5 - Data Wranging - Manipulación de datos\Clase 5 - Data Wrangling I - Ejemplo.ipynb
+- Clase 5 - Data Wranging - Manipulación de datos\Clase 5 - Data Wrangling II - Actividad 2 .ipynb
+- Clase 5 - Data Wranging - Manipulación de datos\Clase 5 - Data Wrangling II - Actividad 3.ipynb
+- Clase 5 - Data Wranging - Manipulación de datos\Clase 5 - Data Wrangling III CODER.ipynb
+- Clase 5 - Data Wranging - Manipulación de datos\_Clase 5 - Data Wrangring.pptx
+- Clase 6 - EDA y Visualización de Datos\Clase 6 - Data Wrangling III - Workshop II.ipynb
+- Clase 6 - EDA y Visualización de Datos\Clase 6 - EDA Coder.ipynb
+- Clase 6 - EDA y Visualización de Datos\Clase 6 - Workshop - Manipulación.ipynb
+- Clase 6 - EDA y Visualización de Datos\Clase 6 - Workshop - Visualización.ipynb
+- Clase 6 - EDA y Visualización de Datos\_Clase 6 - Data Wrangring - EDA.pptx
+- Clase 7 - Storytelling y Visualización GIS\Clase  7 - Visualización de Datos.pptx
+- Clase 7 - Storytelling y Visualización GIS\Clase 7 - Workshop - Visualización.ipynb
+- Clase 8 - Analisis Uni y Bivariado\Clase 8 - Analisis Estadistico - Outlier.ipynb
+- Clase 8 - Analisis Uni y Bivariado\Clase 8 - Workshop - Visualización estadistica.ipynb
+- Clase 8 - Analisis Uni y Bivariado\_Clase 8 - Estadística.pptx
+- Clase 9 - Analisis Multivariado\_Clase 9 - Aprendizaje Supervisados.pptx
+- Clase 9 - Analisis Multivariado\__Clase 9 - Preprocesamiento - Encoding.pptx
